@@ -1,4 +1,4 @@
-# Analysis of House Sales in a King County
+# Analysis of House Sales in a King's County
 
 **Author**: [Abeselom Fanta](mailto:afanta@alumni.cmu.edu)
 

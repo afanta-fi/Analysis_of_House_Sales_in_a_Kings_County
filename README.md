@@ -1,6 +1,6 @@
 # Analysis of House Sales in a King's County
 
-**Author**: [Abeselom Fanta](mailto:afanta@alumni.cmu.edu)
+Abeselom Fanta Flex 20 Weeks Instructor: Abhineet Kulkarni
 
 ## Overview
 
@@ -71,7 +71,7 @@ The last important step is to use employ other predictive models, besides regres
 
 See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./project_2_presentation.pdf).
 
-For additional info, contact Abeselom Fanta at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
+For additional info, contact the author at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
 
 ## Repository Structure
 

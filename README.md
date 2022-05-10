@@ -1,7 +1,5 @@
 # Analysis of House Sales in a King's County
 
-Abeselom Fanta Flex 20 Weeks Instructor: Abhineet Kulkarni
-
 ## Overview
 
 This project focuses on housing prices in the northwestern part of Washington state. The data collected shows the prices of with other valuable information, such as date of construction, if the houses are renovated, the areas of square footage of different parts of the house and more. Based on the information provided, it is important to develop a model that can predict house prices not included in the dataset. The aspiration of this project is also to identify key metrics that are crucial to determine sale price. 

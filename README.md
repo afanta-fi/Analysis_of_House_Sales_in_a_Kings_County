@@ -69,8 +69,6 @@ The last important step is to use employ other predictive models, besides regres
 
 See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./project_2_presentation.pdf).
 
-For additional info, contact the author at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
-
 ## Repository Structure
 
 ```
